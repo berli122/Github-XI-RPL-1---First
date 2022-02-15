@@ -1,0 +1,26 @@
+body {
+
+    background-color: gray;
+}
+
+.color {
+    text-align: center;
+}
+.tabel {
+
+
+    padding: 5%, 5%, 5%, 5%;
+    background-color: black;
+    text-align: center;
+    position: center;
+    margin-left: 35%;
+}
+
+.tr1 {
+    background-color: wheat;
+}
+
+.tr2{
+    background-color: white;
+
+}
